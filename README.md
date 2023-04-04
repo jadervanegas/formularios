@@ -18,7 +18,7 @@ Este es un proyecto PHP que utiliza Bootstrap para crear un CRUD de usuarios. El
 
 ## Uso
 
-- Abrir desde el servidor web el archivo `index.php` en el navegador para visualizar la lista de usuarios registrados.
+- Abrir desde el servidor web el archivo `index.html` en el navegador para visualizar la lista de usuarios registrados.
 - Para agregar un nuevo usuario, hacer click en el botón `Nuevo` y completar el formulario.
 - Para modificar un usuario existente, hacer click en el botón `Modificar` al lado del usuario deseado y completar el formulario de edición.
 - Para eliminar un usuario existente, hacer click en el botón `Eliminar` al lado del usuario deseado.
