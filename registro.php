@@ -63,7 +63,7 @@
       <div class="row">
         <div class="col-md-4">
           <h3>Información del creador</h3>
-          <p>Este sitio web fue creado por Jessica Suarez Alvarez.</p>
+          <p>Este sitio web fue creado por Jhon Jader Vanegas.</p>
         </div>
         <div class="col-md-4">
           <h3>Redes sociales</h3>
